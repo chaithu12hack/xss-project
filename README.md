@@ -1,1 +1,3 @@
 # xss-project
+Implement of cross site scripting in a vulnerable  website and stealing credentials using a javascript.First the user runs the beef tool in kali linux os so that we can get script url and also beef webpage .The hook url contains script the script defines to modify credentials in a website by hooking the website in vulnerable website .in the beef platform BeEF provides a web interface from which various browser-based attacks can be launched, such as client-side attacks, social engineering attacks, and more. It's essential for ethical hacking and security testing to ensure web applications and browsers are secure.
+demo link:->https://drive.google.com/file/d/1l2rk2dzF-CijtWw4uVMkPp0DhULyce9-/view?usp=sharing
